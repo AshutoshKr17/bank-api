@@ -1,4 +1,4 @@
-1. Clone the repo.
-1.Install the required packages:
-    npm install express mysql body-parser
-2.
+#instruction to run the project.
+    1. Clone the repo.
+    2. run npm init.
+    3. 
